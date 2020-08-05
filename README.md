@@ -1,6 +1,8 @@
 # to-make-or-to-go
 UCI Project 1, To Make or To Go
 
+Team members: Jeorge Donato, Duyen Pham, Raymond Tieu, Alex Tran
+
 ### PROJECT TITLE: 
 ```To Make or To Go```
 
@@ -33,7 +35,7 @@ Yelp
 ```
 
 ### Link:
-https://raytieu.github.io/to-make-or-to-go/
+https://phtrmd8.github.io/to-make-or-to-go/
 
 ### Application's Screenshots:
 ![Image 1](./asset/p1.png)
